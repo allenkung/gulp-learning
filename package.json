@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.9.0",
-    "gulp-ejs-pages": "^0.1.1"
+    "gulp-ejs": "^1.2.1"
   }
 }
